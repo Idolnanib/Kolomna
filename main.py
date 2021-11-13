@@ -22,3 +22,4 @@ while n <= 10:
     three = in_put * n
     print(in_put, ' *', n, '= ', three)
     n += 1
+print('что-нибудь')
